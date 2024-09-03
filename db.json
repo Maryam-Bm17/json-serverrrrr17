@@ -1,0 +1,615 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "شومیز حریر",
+      "img": "/images/products/05029161330-p.jpg",
+      "cover": "/images/products/05029161330-e1.jpg",
+      "description": "پیراهن روان با یقه برگردان و آستین بلند. بسته شدن دکمه جلو.",
+      "price": 1000000,
+      "categoryId": 1,
+      "count": 124,
+      "popularity": 95,
+      "url": "shomiz_harir",
+      "sale": 20000000,
+      "colors":[],
+      "sizes":["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "تیشرت بیسیک",
+      "img": "/images/products/03992378514-p.jpg",
+      "cover": "/images/products/03992378514-e1.jpg",
+      "description": "تی شرت راحت و مناسب. یقه گرد و آستین کوتاه. دریچه های کناری در سجاف.",
+      "price": 2000000,
+      "categoryId": 2,
+      "count": 130,
+      "popularity": 98,
+      "url": "T-shirt",
+      "sale": 32000000,
+      "colors": [],
+      "sizes":["S","M","L","XL"]
+    },
+    {
+      "id": 3,
+      "name": "پیراهن جیبی پوپلین",
+      "img": "/images/products/08808345505-a2.jpg",
+      "cover": "/images/products/08808345505-e1.jpg",
+      "description": "پیراهن ترکیبی پنبه ای. یقه برگردان نازک و آستین بلند با سرآستین. جیب پچ سینه. سجاف گرد نامتقارن. بسته شدن دکمه جلو.",
+      "price": 658000,
+      "categoryId": 1,
+      "count": 150,
+      "popularity": 100,
+      "url": "shirt_poplin",
+      "sale": 25000000,
+      "colors": [],
+      "sizes":["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 4,
+      "name": "پیراهن گره خورده",
+      "img": "/images/products/04877100800-p.jpg",
+      "cover": "/images/products/04877105800-e1.jpg",
+      "description": "پیراهن از 100% کتان. یقه برگردان و آستین بلند با سرآستین های دکمه دار. سجاف نامتقارن با دریچه های جانبی. بسته شدن دکمه جلو.",
+      "price": 565000,
+      "categoryId": 1,
+      "count": 110,
+      "popularity": 93,
+      "url": "shirt_gereh",
+      "sale": 40000000,
+      "colors": ["#000C12","#F5F6F8"],
+      "sizes":["XS","S","M","L","XL"]
+    },
+    {
+      "id": 5,
+      "name": "پیراهن سفید مردانه",
+      "img": "/images/products/04408474250-p.jpg",
+      "cover": "/images/products/04408147250-e1.jpg",
+      "description": "پیراهن باریک ساخته شده از پارچه ای که نیاز به اتو پس از شستشو را به حداقل می رساند. یقه و آستین های بلند را با سرآستین های دکمه دار پهن کنید. جلو دکمه ای.",
+      "price": 2200000,
+      "categoryId": 2,
+      "count": 120,
+      "popularity": 91,
+      "url": "shirt_men",
+      "sale": 28000000,
+      "colors": ["#f6f6f6","#242524"],
+      "sizes":["S","M","L","XL"]
+    },
+    {
+      "id": 6,
+      "name": "تیشرت بیسیک سفید",
+      "img": "/images/products/05584261250-p.jpg",
+      "cover": "/images/products/05584361250-e1.jpg",
+      "description": "پیراهن باریک. یقه گرد و آستین کوتاه. ما با برنامه های نظارتی کار می کنیم تا انطباق با استانداردهای اجتماعی، زیست محیطی و بهداشتی و ایمنی محصولات خود را تضمین کنیم. برای ارزیابی انطباق آن، ما یک برنامه حسابرسی و برنامه هایی برای بهبود مستمر ایجاد کرده ایم.",
+      "price": 800000,
+      "categoryId": 2,
+      "count": 78,
+      "popularity": 85,
+      "url": "T-shirt_basic",
+      "sale": 33000000,
+      "colors": ["#f4f7f6","#20252d","#f1e3d8"],
+      "sizes":["S","M","L","XL"]
+    },
+    {
+      "id": 7,
+      "name": "پیراهن شیری مردانه",
+      "img": "/images/products/03920334712-a1.jpg",
+      "cover": "/images/products/03920334712-e1.jpg",
+      "description": "ژاکت مناسب و راحت با نخ پنبه ای. دارای یقه V، آستین های بلند و تزئینات آجدار.",
+      "price": 1200000,
+      "categoryId": 2,
+      "count": 120,
+      "popularity": 82,
+      "url": "shirt_men_shiri",
+      "sale": 30000000,
+      "colors": [],
+      "sizes":["M","L","XL"]
+    },
+    {
+      "id": 8,
+      "name": "شومیز حریر چین دار",
+      "img": "/images/products/08790151051-p.jpg",
+      "cover": "/images/products/08790151051-e1.jpg",
+      "description": "پیراهن یقه V با آستین بلند با سرآستین های کشسان. تریم نازک. بسته شدن جلو با کراوات.",
+      "price": 1100000,
+      "categoryId": 1,
+      "count": 125,
+      "popularity": 80,
+      "url": "shomiz_chin",
+      "sale": 15000000,
+      "colors": [],
+      "sizes":["XS","S","M","L","XL"]
+    },
+    {
+      "id": 9,
+      "name": "پیراهن جیبی",
+      "img": "/images/products/00264999620-p.jpg",
+      "cover": "/images/products/00264999620-a2.jpg",
+      "description": "پیراهن 100% پنبه. یقه برگردان نازک و آستین بلند با سرآستین. جیب پچ سینه. سجاف گرد نامتقارن. بسته شدن دکمه جلو.",
+      "price": 800000,
+      "categoryId": 1,
+      "count": 120,
+      "popularity": 86,
+      "url": "shirt_jibi",
+      "sale": 24000000,
+      "colors": [],
+      "sizes":["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 10,
+      "name": "شلوار ویسکوز کتان",
+      "img": "/images/products/02675336800-p.jpg",
+      "cover": "/images/products/02675336800-e1.jpg",
+      "description": "شلواری راحت ساخته شده از کتانی و ویسکوز. دارای یک کمربند کش دار با بند کشی قابل تنظیم، جیب های جلو و جیب های پشتی. ",
+      "price": 1100000,
+      "categoryId": 2,
+      "count": 120,
+      "popularity": 81,
+      "url": "pants_viscoz",
+      "sale": 31000000,
+      "colors": [],
+      "sizes":["S","M","L","XL"]
+    }
+  ],
+  "productsImage": [
+    {
+      "id": 1,
+      "image": "/images/products/05029161330-p.jpg",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "image": "/images/products/05029161330-a1.jpg",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "image": "/images/products/05029161330-e2.jpg",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "image": "/images/products/05029161330-e1.jpg",
+      "productId": 1
+    },
+    {
+      "id": 5,
+      "image": "/images/products/03992378514-p.jpg",
+      "productId": 2
+    },
+    {
+      "id": 6,
+      "image": "/images/products/03992378514-a2.jpg",
+      "productId": 2
+    },
+    {
+      "id": 7,
+      "image": "/images/products/03992378514-e1.jpg",
+      "productId": 2
+    },
+    {
+      "id": 8,
+      "image": "/images/products/03992378514-e2.jpg",
+      "productId": 2
+    },
+    {
+      "id": 9,
+      "image": "/images/products/08808345505-a2.jpg",
+      "productId": 3
+    },
+    {
+      "id": 10,
+      "image": "/images/products/08808345505-e1.jpg",
+      "productId": 3
+    },
+    {
+      "id": 11,
+      "image": "/images/products/08808345505-e2.jpg",
+      "productId": 3
+    },
+    {
+      "id": 12,
+      "image": "/images/products/04877100800-p.jpg",
+      "productId": 4
+    },
+    {
+      "id": 13,
+      "image": "/images/products/04877105800-a1.jpg",
+      "productId": 4
+    },
+    {
+      "id": 14,
+      "image": "/images/products/04877105800-a4.jpg",
+      "productId": 4
+    },
+    {
+      "id": 15,
+      "image": "/images/products/04877105800-e1.jpg",
+      "productId": 4
+    },
+    {
+      "id": 16,
+      "image": "/images/products/04877105800-e2.jpg",
+      "productId": 4
+    },
+    {
+      "id": 17,
+      "image": "/images/products/04408474250-p.jpg",
+      "productId": 5
+    },
+    {
+      "id": 18,
+      "image": "/images/products/04408147250-e1.jpg",
+      "productId": 5
+    },
+    {
+      "id": 19,
+      "image": "/images/products/04408147250-e2.jpg",
+      "productId": 5
+    },
+    {
+      "id": 20,
+      "image": "/images/products/05584261250-p.jpg",
+      "productId": 6
+    },
+    {
+      "id": 21,
+      "image": "/images/products/05584261250-a1.jpg",
+      "productId": 6
+    },
+    {
+      "id": 22,
+      "image": "/images/products/05584361250-e1.jpg",
+      "productId": 6
+    },
+    {
+      "id": 23,
+      "image": "/images/products/05584361250-e2.jpg",
+      "productId": 6
+    },
+    {
+      "id": 24,
+      "image": "/images/products/03920334712-a1.jpg",
+      "productId": 7
+    },
+    {
+      "id": 25,
+      "image": "/images/products/03920334712-a1.jpg",
+      "productId": 7
+    },
+    {
+      "id": 26,
+      "image": "/images/products/03920334712-e1.jpg",
+      "productId": 7
+    },
+    {
+      "id": 27,
+      "image": "/images/products/03920334712-e1.jpg",
+      "productId": 7
+    },
+    {
+      "id": 28,
+      "image": "/images/products/08790151051-p.jpg",
+      "productId": 8
+    },
+    {
+      "id": 29,
+      "image": "/images/products/08790151051-a1.jpg",
+      "productId": 8
+    },
+    {
+      "id": 30,
+      "image": "/images/products/08790151051-a3.jpg",
+      "productId": 8
+    },
+    {
+      "id": 31,
+      "image": "/images/products/08790151051-e1.jpg",
+      "productId": 8
+    },
+    {
+      "id": 32,
+      "image": "/images/products/08790151051-e2.jpg",
+      "productId": 8
+    },
+    {
+      "id": 33,
+      "image": "/images/products/00264999620-p.jpg",
+      "productId": 9
+    },
+    {
+      "id": 34,
+      "image": "/images/products/00264999620-e1.jpg",
+      "productId": 9
+    },
+    {
+      "id": 35,
+      "image": "/images/products/00264999620-e1.jpg",
+      "productId": 9
+    },
+    {
+      "id": 36,
+      "image": "/images/products/00264999620-e2.jpg",
+      "productId": 9
+    },
+    {
+      "id": 37,
+      "image": "/images/products/02675336800-p.jpg",
+      "productId": 10
+    },
+    {
+      "id": 38,
+      "image": "/images/products/02675336800-e1.jpg",
+      "productId": 10
+    },
+    {
+      "id": 39,
+      "image": "/images/products/02675336800-e2.jpg",
+      "productId": 10
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstname": "maryam",
+      "lastname": "Bemanizadeh",
+      "password": "12345678910",
+      "email": "maryambemani17@gmail.com"
+    },
+    {
+      "id": "08a7",
+      "firstname": "moniba",
+      "lastname": "bemanizadeh",
+      "email": "monibemani@gmail.com",
+      "password": "13831383"
+    },
+    {
+      "id": "a864",
+      "firstname": "meadeh",
+      "lastname": "bemani",
+      "email": "mayadamana@gmail.com",
+      "password": "13821382"
+    },
+    {
+      "id": "73c6",
+      "firstname": "mohammad",
+      "lastname": "bemani",
+      "email": "m.bemani67@gmail.com",
+      "password": "13671367"
+    },
+    {
+      "id": "00a1",
+      "firstname": "sakineh",
+      "lastname": "ahmadi",
+      "email": "sakineh@gmail.com",
+      "password": "51515252"
+    },
+    {
+      "id": "3be6",
+      "firstname": "ghalandar",
+      "lastname": "jafari",
+      "email": "ghalandar74@gmail.com",
+      "password": "13831383"
+    },
+    {
+      "id": "aea1",
+      "firstname": "sara",
+      "lastname": "babak",
+      "email": "sarababak@gmail.com",
+      "password": "13831383"
+    },
+    {
+      "id": "f0f8",
+      "firstname": "saman",
+      "lastname": "golriz",
+      "email": "samangolriz@gmail.com",
+      "password": "13721372"
+    },
+    {
+      "id": "2613",
+      "firstname": "mana",
+      "lastname": "bemani",
+      "email": "manabemani@gmail.com",
+      "password": "13641364"
+    },
+    {
+      "id": "cb51",
+      "firstname": "mahsa",
+      "lastname": "alizadeh",
+      "email": "mahsaAlizadeh@gmail.com",
+      "password": "13701370"
+    },
+    {
+      "id": "dc11",
+      "firstname": "roghayeh",
+      "lastname": "javadi",
+      "email": "roghayehJavadi@gmail.com",
+      "password": "13561356"
+    },
+    {
+      "id": "ed7a",
+      "firstname": "tara",
+      "lastname": "mohammadi",
+      "email": "taramohammadi@gmail.com",
+      "password": "13821382"
+    },
+    {
+      "id": "a8a7",
+      "firstname": "mandana",
+      "lastname": "pourfatehi",
+      "email": "mandana@gmail.com",
+      "password": "13561356"
+    },
+    {
+      "id": "25f2",
+      "firstname": "morteza",
+      "lastname": "bemani",
+      "email": "mortezabemani@gmail.com",
+      "password": "13451345"
+    },
+    {
+      "id": "d724",
+      "firstname": "hasan",
+      "lastname": "najafi",
+      "email": "hasannajafi@gmail.com",
+      "password": "13561356"
+    }
+  ],
+  "menus": [
+    {
+      "id": 1,
+      "title": "مردانه",
+      "href": "/shop/men/men",
+      "parent": 0,
+      "subMenus": [
+        {
+          "id": 1,
+          "title": "پیراهن",
+          "href": "/shop/men/shirts",
+          "parent": 1
+        },
+        {
+          "id": 2,
+          "title": "شلوار",
+          "href": "/shop/men/pants",
+          "parent": 1
+        },
+        {
+          "id": 3,
+          "title": "تیشرت",
+          "href": "/shop/men/T-shirts",
+          "parent": 1
+        },
+        {
+          "id": 4,
+          "title": "جین",
+          "href": "/shop/men/jeans",
+          "parent": 1
+        },
+        {
+          "id": 5,
+          "title": "کت",
+          "href": "/shop/men/jacket",
+          "parent": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "زنانه",
+      "href": "/shop/women/women",
+      "parent": 0,
+      "subMenus": [
+        {
+          "id": 1,
+          "title": "پیراهن",
+          "href": "/shop/women/dress",
+          "parent": 2
+        },
+        {
+          "id": 2,
+          "title": "شومیز",
+          "href": "/shop/women/shomiz",
+          "parent": 2
+        },
+        {
+          "id": 3,
+          "title": "دامن",
+          "href": "/shop/women/skirt",
+          "parent": 2
+        },
+        {
+          "id": 4,
+          "title": "شلوار",
+          "href": "/shop/women/pants",
+          "parent": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "صفحه اصلی",
+      "href": "/",
+      "parent": 0,
+      "subMenus": []
+    },
+    {
+      "id": 4,
+      "title": "درباره ما",
+      "href": "/AboutUs",
+      "parent": 0,
+      "subMenus": []
+    },
+    {
+      "id": 5,
+      "title": "تماس با ما",
+      "href": "/contactUs",
+      "parent": 0,
+      "subMenus": []
+    }
+  ],
+  "productsHighlights": [
+    {
+      "id": 1,
+      "img": "/images/shoes woman.png",
+      "title": "کفش زنانه",
+      "href": "/shop/women/shoes-woman"
+    },
+    {
+      "id": 2,
+      "img": "/images/bag woman1.png",
+      "title": "کیف زنانه",
+      "href": "/shop/women/bags-woman"
+    },
+    {
+      "id": 3,
+      "img": "/images/men shoes1.png",
+      "title": "کفش مردانه",
+      "href": "/shop/men/shoes-men"
+    },
+    {
+      "id": 4,
+      "img": "/images/woman ring.png",
+      "title": "اکسسوری زنانه",
+      "href": "/shop/women/rings-woman"
+    }
+  ],
+  "weblogs": [
+    {
+      "id": 1,
+      "title": "بررسی کیف دستی زنانه استیور طراحی شیک اما نه خیلی دقیق",
+      "img": "/images/bag (2).jpg",
+      "cover": "/images/bag (2).jpg",
+      "href": "/blog/bags",
+      "desc": "یکی از اکسسوری‌های پرکاربرد در استایل زنانه، کیف دستی است. کیف‌ها در عین اینکه جذابیت بیشتری به استایل ما می‌بخشند،",
+      "body": "یکی از اکسسوری‌های پرکاربرد در استایل زنانه، کیف دستی است. کیف‌ها در عین اینکه جذابیت بیشتری به استایل ما می‌بخشند، همچنین به ما کمک می‌کنند تا بتوانیم لوازم ضروری‌مان را داخل آن قرار دهیم و به راحتی به آن‌ها دسترسی داشته باشیم. در این سری از ویدیوهای تلنت قصد داریم کیف دستی زنانه اسپیور مدل DWA250100 را به شما معرفی کنیم. این کیف طراحی بسیار شیک و مدرنی دارد و همچنین کاملا مطابق با ترند روز است."
+    },
+    {
+      "id": 2,
+      "title": "هر آنچه که باید درباره تاریخچه‌ی برند پرادا بدانید",
+      "img": "/images/weblogs/History-of-the-Prada-brand-Banner-300x195.jpg",
+      "cover": "/images/weblogs/History-of-the-Prada-brand-Banner.jpg",
+      "href": "/blog/parada",
+      "desc": "وقتی صحبت از مد لوکس ایتالیایی می‌شود، نام پرادا همیشه به ذهن افراد می‌رسد. پرادا با نوآوری و ابهام مترادف است و به‌عنوان یکی از",
+      "body": "وقتی صحبت از مد لوکس ایتالیایی می‌شود، نام پرادا همیشه به ذهن افراد می‌رسد. پرادا با نوآوری و ابهام مترادف است و به‌عنوان یکی از هیجان انگیزترین برندها در صنعت مد شناخته می‌شود. تاریخچه‌ی این برند بیش از یک قرن پیش با یک تجارت خانوادگی کوچک محصولات چرمی آغاز می‌شود. پرادا یکی از برجسته‌ترین برندهای دنیای مد است. طراحانی که در خانه‌ی مد پرادا مشغول هستند در تلاش هستند تا در حین اینکه سبک کلاسیک این برند را حفظ می‌کنند، خلاق باشند. مطرح بودن نام برند از گذشته تا به امروز گواهی بر موفقیت طراحان است."
+    },
+    {
+      "id": 3,
+      "title": "انواع کفش جیر را چگونه باید تمیز کنیم؟",
+      "img": "/images/weblogs/cleaning-suede-shoes-300x195.jpg",
+      "cover": "/images/weblogs/cleaning-suede-shoes.jpg",
+      "href": "/blog/shoes",
+      "desc": "چگونه کفش‌ جیر را تمیز کنیم؟ کفش‌های جیر در تمام طول سال مورد‌استفاده قرار می‌گیرند. در تابستان کفش کالج و لوفر و در زمستان بوت‌هایی که از جنس جیر هستند، طرفداران بسیاری دارند. رنگ‌بندی متنوع و جذابیت ظاهری جیر، جلوه‌ی خاصی به استایل شما می‌بخشد. ولی جیر باتوجه به ساختارش به‌راحتی کثیف می‌شود. همچنین به ...",
+      "body": "چگونه کفش‌ جیر را تمیز کنیم؟ کفش‌های جیر در تمام طول سال مورد‌استفاده قرار می‌گیرند. در تابستان کفش کالج و لوفر و در زمستان بوت‌هایی که از جنس جیر هستند، طرفداران بسیاری دارند. رنگ‌بندی متنوع و جذابیت ظاهری جیر، جلوه‌ی خاصی به استایل شما می‌بخشد. ولی جیر باتوجه به ساختارش به‌راحتی کثیف می‌شود. همچنین به دلیل جنس ظریفی که دارند، هنگام تمیز کردن آن‌ها بای بسیار دقت کنید که آسیبی به کفشتان نزنید؛ بنابراین برای تمیز کردن کفش جیر باید به نکات خاصی توجه کنید. در این مقاله به شما خواهیم گفت که برای تمیز کردن کفش جیر از چه وسایل و موادی استفاده کنید. بعد از مطالعه این مقاله با کمک چند ترفند ساده می‌توانید همیشه کفش موردعلاقه‌تان را نو نگه دارید."
+    },
+    {
+      "id": 4,
+      "title": "چگونه کفش کتانی کانورس را در استایل خود ست کنیم؟",
+      "img": "/images/weblogs/how-to-wear-converse-300x195.jpg",
+      "cover": "/images/weblogs/how-to-wear-converse.jpg",
+      "href": "/blog/converse",
+      "desc": "با وجود اینکه برندهای مختلفی از کفش‌های کتانی وجود دارد اما یک برند بالاتر از همه ایستاده است و آن برند آمریکایی کانورس (Converse) است. این برند آمریکایی مشهور بیش از صد سال است که پر قدرت به تولید کفش‌های کتانی مشغول است. کانورس برای علاقه‌مندان به دنیای مد کفش‌های کتانی کلاسیکی را تولید می‌کند ...",
+      "body": "با وجود اینکه برندهای مختلفی از کفش‌های کتانی وجود دارد اما یک برند بالاتر از همه ایستاده است و آن برند آمریکایی کانورس (Converse) است. این برند آمریکایی مشهور بیش از صد سال است که پر قدرت به تولید کفش‌های کتانی مشغول است. کانورس برای علاقه‌مندان به دنیای مد کفش‌های کتانی کلاسیکی را تولید می‌کند که هیچگاه دمده نمی‌شوند و جذابیتشان را از دست نمی‌دهند.امروزه کانورس کتانی‌های مختلف و متنوعی را در مدل‌ها و رنگ‌های مختلف عرضه می‌کند. کانورس کتانی‌هایی از مدل‌های ساق‌دار بلند مشکی و ساده، ساق کوتاه سفید تا حجیم، طرح‌دار رنگی و هر مدلی که بین این مدل‌ها قرار بگیرد را تولید می‌کند و کتانی‌هایی را عرضه می‌کند که مناسب استایل هر فردی باشند. در این مطلب به معرفی مدل‌های مختلف کانورس و نحوه‌ی ست کردن صحیح آن‌ها در استایل می‌پردازیم."
+    }
+  ]
+}
